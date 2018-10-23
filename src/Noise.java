@@ -22,7 +22,7 @@ public class Noise {
 	static int height;
 	
 	static BufferedImage PartialGreyScale(BufferedImage image) {
-		
+		//Code here
 		return image;
 	}
 	
